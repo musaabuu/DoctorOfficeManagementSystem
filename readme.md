@@ -1,1 +1,1 @@
-# Doctor's management system using C programming language
+# Doctor's management system using C
